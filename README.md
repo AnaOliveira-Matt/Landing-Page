@@ -1,6 +1,6 @@
 # Landing Page
 
-<img src="LandingPage_PaginaInicial.png" alt="Imagem da pagina inicial">
+<img src="LandingPage_TelaInicial.png" alt="Imagem da pagina inicial">
 
 
 >Site feito com o objetivo de simular uma landing page, tendo assim apenas uma página
